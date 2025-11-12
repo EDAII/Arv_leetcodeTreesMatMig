@@ -68,7 +68,7 @@ A solução utiliza **busca em profundidade (DFS)** e **programação dinâmica*
 
 ---
 
-## 295. Find Median from Data Stream (Médio)
+## 295. Find Median from Data Stream (Difícil)
 
 **Autor:** Mateus Bastos 
 
